@@ -10,3 +10,5 @@
     messagingSenderId: "712278560678"
   };
   firebase.initializeApp(config);
+
+  var db = firebase.database();

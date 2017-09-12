@@ -6,6 +6,6 @@ body {
     background-image: url("../images/carbonfiber.png");
 }
 
-h3,h4,p,li,label,address {
+h3,h4,p,li,label,address,th,tr {
     color: #E6E6E6;
 }
