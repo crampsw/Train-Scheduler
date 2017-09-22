@@ -9,3 +9,7 @@ body {
 h3,h4,p,li,label,address,th,tr {
     color: #E6E6E6;
 }
+
+.form-control-label {
+    color: black;
+}
